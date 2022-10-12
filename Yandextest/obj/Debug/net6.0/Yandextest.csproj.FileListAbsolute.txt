@@ -1,0 +1,15 @@
+C:\Users\Эмиль\source\repos\Yandextest\Yandextest\bin\Debug\net6.0\Yandextest.exe
+C:\Users\Эмиль\source\repos\Yandextest\Yandextest\bin\Debug\net6.0\Yandextest.deps.json
+C:\Users\Эмиль\source\repos\Yandextest\Yandextest\bin\Debug\net6.0\Yandextest.runtimeconfig.json
+C:\Users\Эмиль\source\repos\Yandextest\Yandextest\bin\Debug\net6.0\Yandextest.dll
+C:\Users\Эмиль\source\repos\Yandextest\Yandextest\bin\Debug\net6.0\Yandextest.pdb
+C:\Users\Эмиль\source\repos\Yandextest\Yandextest\obj\Debug\net6.0\Yandextest.csproj.AssemblyReference.cache
+C:\Users\Эмиль\source\repos\Yandextest\Yandextest\obj\Debug\net6.0\Yandextest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Эмиль\source\repos\Yandextest\Yandextest\obj\Debug\net6.0\Yandextest.AssemblyInfoInputs.cache
+C:\Users\Эмиль\source\repos\Yandextest\Yandextest\obj\Debug\net6.0\Yandextest.AssemblyInfo.cs
+C:\Users\Эмиль\source\repos\Yandextest\Yandextest\obj\Debug\net6.0\Yandextest.csproj.CoreCompileInputs.cache
+C:\Users\Эмиль\source\repos\Yandextest\Yandextest\obj\Debug\net6.0\Yandextest.dll
+C:\Users\Эмиль\source\repos\Yandextest\Yandextest\obj\Debug\net6.0\refint\Yandextest.dll
+C:\Users\Эмиль\source\repos\Yandextest\Yandextest\obj\Debug\net6.0\Yandextest.pdb
+C:\Users\Эмиль\source\repos\Yandextest\Yandextest\obj\Debug\net6.0\Yandextest.genruntimeconfig.cache
+C:\Users\Эмиль\source\repos\Yandextest\Yandextest\obj\Debug\net6.0\ref\Yandextest.dll
