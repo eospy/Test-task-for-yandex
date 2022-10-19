@@ -1,0 +1,39 @@
+using System;
+using System.Linq;
+class YaTests {
+  static void Main() {
+     string[] result=Shifr();
+     for(int i=0;i<result.Length;i++)
+     {
+         Console.Write(result[i]);
+     }
+  }
+  public static string[] Shifr()
+  {
+      string alphabet=@"ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+      int counter=int.Parse(Console.ReadLine());
+      string[] results = new string[counter];
+      for(int i=0;i<counter;i++)
+        {
+            var input = Console.ReadLine();
+            string[] data=input.Split(new char[] { ',' });
+            int difsymbols=(data[0]+data[1]+data[2]).Distinct().Count();
+            int sumdigits =(data[3]+data[4]).ToCharArray().Select(j => int.Parse(j.ToString())).Sum();
+            int index =alphabet.IndexOf(data[0][0])+1;
+            int decimalres =difsymbols+sumdigits*64+index*256;
+            string resstr=Convert.ToString(decimalres,16).ToUpper();
+            if(resstr.Length>3) results[i]=resstr.Remove(0,1)+" ";
+            if(resstr.Length<3) results[i]="0"+resstr+" ";
+        }
+        return results;
+  }
+  //training test task 1
+  public static int Sum(string ab)
+  {
+      string[] abs = ab.Split(new char[] { ' ' });
+      int a=int.Parse(abs[0]);
+      int b=int.Parse(abs[1]);
+      return a+b;
+  }
+ 
+}
